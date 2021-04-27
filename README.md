@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @factak
 - 👀 I’m interested in too many things! From UX/UI all the way to marketing and data science!
-- 🌱 I’m currently learning Python and react
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on anything that I can collab on!
 - 📫 Shoot me a message right here if I can help with anything
 
